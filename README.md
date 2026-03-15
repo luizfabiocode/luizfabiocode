@@ -1,16 +1,37 @@
-## Hi there 👋
+# # 👋 Olá, eu sou Luiz Fábio Camargo de Oliveira
 
-<!--
-**luizfabiocode/luizfabiocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 *Formação e Graduações*
+- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **ETEC**
+- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Gran Faculdade**
+- Graduação em **Inteligência Artificial na prática**
+- Graduação em **Engenharia de Prompt**
+- Cursando na plataforma **Udemy**: *Java do início a projetos profissionais*
+- Cursando o programa **Hackers do Bem**
 
-Here are some ideas to get you started:
+💻 **Áreas de Interesse**
+![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![AI Badge](https://img.shields.io/badge/Inteligência%20Artificial-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Prompt Engineering Badge](https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=for-the-badge&logo=markdown&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projetos**
+- [BDLivraria](https://github.com/luizfabiocode/bdlivraria) – Projeto acadêmico de banco de dados com criação de tabelas, inserções e consultas SQL.
+- *(Em breve novos projetos!)*
+
+📊 **Estatísticas do GitHub**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizfabiocode&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfabiocode&layout=compact&theme=radical)
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fabio-819b2b34b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizfabiocode)
+[![Email](https://img.shields.io/badge/Email-luizfabiocamargo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfabiocamargo@gmail.com)
+
+📫 **Conecte-se comigo**
+- [LinkedIn](https://www.linkedin.com/in/luiz-fabio-819b2b34b/)
+- Localização: Praia Grande, SP
+
+
