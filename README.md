@@ -4,6 +4,11 @@
 💻 Desenvolvedor focado em C#, .NET e aplicações com .NET MAUI  
 🚀 Atualmente expandindo conhecimentos em Rust Fullstack e Inteligência Artificial.
 
+# 🎓 Formação Acadêmica
+
+- 🎓 Técnico em Desenvolvimento de Sistemas — ETEC
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — GRAM Faculdade
+
 ---
 
 # 🚀 Stack Principal
