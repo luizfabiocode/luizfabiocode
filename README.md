@@ -7,6 +7,15 @@
 ![Material 3](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 ![Room Database](https://img.shields.io/badge/Room%20Database-FF6D00?style=for-the-badge&logo=android&logoColor=white)
 ![DataStore](https://img.shields.io/badge/DataStore-00BFA5?style=for-the-badge&logo=android&logoColor=white)
+![SensorManager](https://img.shields.io/badge/SensorManager-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Vibrator](https://img.shields.io/badge/Vibrator-FF6D00?style=for-the-badge&logo=android&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![FusedLocation](https://img.shields.io/badge/FusedLocation-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Geocoder](https://img.shields.io/badge/Geocoder-FF5722?style=for-the-badge&logo=android&logoColor=white)
+![Permissions](https://img.shields.io/badge/Permissions-FF4081?style=for-the-badge&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-3F51B5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Google Play Services](https://img.shields.io/badge/Play%20Services-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas-FF5722?style=for-the-badge&logo=android&logoColor=white)
 
 # 🌎 Conecte-se comigo
 
