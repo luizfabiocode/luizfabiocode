@@ -1,27 +1,51 @@
-# Afinidade
+# 👋 Olá, eu sou Luiz Fabio!
 
-![Android Mobile](https://img.shields.io/badge/Android%20Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Mobile Developer](https://img.shields.io/badge/Mobile%20Developer-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Material 3](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
-![Room Database](https://img.shields.io/badge/Room%20Database-FF6D00?style=for-the-badge&logo=android&logoColor=white)
-![DataStore](https://img.shields.io/badge/DataStore-00BFA5?style=for-the-badge&logo=android&logoColor=white)
-![SensorManager](https://img.shields.io/badge/SensorManager-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Vibrator](https://img.shields.io/badge/Vibrator-FF6D00?style=for-the-badge&logo=android&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-![FusedLocation](https://img.shields.io/badge/FusedLocation-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Geocoder](https://img.shields.io/badge/Geocoder-FF5722?style=for-the-badge&logo=android&logoColor=white)
-![Permissions](https://img.shields.io/badge/Permissions-FF4081?style=for-the-badge&logo=android&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-3F51B5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Google Play Services](https://img.shields.io/badge/Play%20Services-4285F4?style=for-the-badge&logo=googleplay&logoColor=white)
-![Canvas](https://img.shields.io/badge/Canvas-FF5722?style=for-the-badge&logo=android&logoColor=white)
+Bem-vindo ao meu perfil! Sou desenvolvedor mobile e fullstack, apaixonado por criar soluções completas com foco em experiência do usuário e segurança.
 
-# 🌎 Conecte-se comigo
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fabio-819b2b34b/)
+## 🏠 Projeto em Destaque
 
-[![Email](https://img.shields.io/badge/Email-luizfabiocamargo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfabiocamargo@gmail.com)
+### Stay Pro - Gestão Profissional de Locação por Temporada
 
-[![Google Developer](https://img.shields.io/badge/🚀_Google_Developer-g.dev%2Fluizfabiocode-FF6B00?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4)](https://g.dev/luizfabiocode)
+Sistema completo para gestão de locações por temporada com multi-imóvel, controle de equipe, relatórios financeiros, logs de auditoria e conformidade com LGPD.
+
+🔗 **[Ver Demo](https://stay-pro.ai.studio)** • **[Ver Código](https://github.com/luizfabiocode/Stay-Pro)**
+
+---
+
+## 🛠️ Stacks do Projeto
+
+| Área | Tecnologias |
+|------|-------------|
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS |
+| **Backend** | Node.js, Express |
+| **Banco de Dados** | Firestore |
+| **Autenticação** | JWT, 2FA TOTP, Google Authenticator |
+| **Segurança** | Helmet.js, CORS, Rate Limiter, AES-256, PBKDF2 |
+| **Cloud & Deploy** | Google Cloud Run, Cloud Logging, Cloud Monitoring |
+
+---
+
+## 💻 Minhas Especialidades
+
+| Área | Tecnologias |
+|------|-------------|
+| **Mobile Android** | Kotlin, Jetpack Compose, Material 3, Room Database, DataStore |
+| **Fullstack** | React, TypeScript, Node.js, Express |
+| **Cloud** | Google Cloud Run, Firestore, Secret Manager |
+| **Segurança** | JWT, 2FA, Criptografia AES-256, OWASP Top 10 |
+
+---
+
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fabio-819b2b34b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfabiocamargo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizfabiocode)
+[![Google Developer](https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/luizfabio)
+
+---
+
+⭐ **Projetos que fazem a diferença!** ⭐
 
