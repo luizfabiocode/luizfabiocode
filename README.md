@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Luiz Fabio!
-
 Bem-vindo ao meu perfil! Sou desenvolvedor mobile e fullstack, apaixonado por criar soluções completas com foco em experiência do usuário e segurança.
 
 ---
