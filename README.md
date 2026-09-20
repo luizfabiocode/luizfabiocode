@@ -49,12 +49,12 @@ Plataforma web desenvolvida para garantir a transparência financeira, rastreabi
 ## 💻 Minhas Especialidades
 
 | Área | Tecnologias |
-|------|-------------|
-| **Mobile Android** | Kotlin, Jetpack Compose, Material 3, Room Database, DataStore |
-| **Fullstack** | React, TypeScript, Node.js, Express |
-| **Cloud** | Google Cloud Run, Firestore, Secret Manager |
-| **Segurança** | JWT, 2FA, Criptografia AES-256, OWASP Top 10 |
-
+| :--- | :--- |
+| **Mobile Android** | Kotlin, Jetpack Compose, Material 3, Room Database, Datastore |
+| **Fullstack** | React, TypeScript, Node.js, Express, Vite, Tailwind CSS |
+| **ORM & Banco de Dados** | Prisma ORM, SQLite, PostgreSQL, Firestore, Modelagem de Dados |
+| **Segurança & Compliance** | RBAC, Audit Logs (`LogSistema`), PLD / KYC, JWT, 2FA, Criptografia AES-256, OWASP Top 10 |
+| **Cloud & Infraestrutura** | Google Cloud Run, Secret Manager, CI/CD GitHub Actions |
 ---
 
 ## 📫 Conecte-se comigo
