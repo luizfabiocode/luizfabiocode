@@ -23,6 +23,27 @@ Sistema completo para gestão de locações por temporada com multi-imóvel, con
 | **Segurança** | Helmet.js, CORS, Rate Limiter, AES-256, PBKDF2 |
 | **Cloud & Deploy** | Google Cloud Run, Cloud Logging, Cloud Monitoring |
 
+
+---
+
+### 🛡️ Projeto em Destaque: SiSGO (SafeONG)
+
+**Sistema Integrado de Gestão, Governança e Auditoria para ONGs**
+
+Plataforma web desenvolvida para garantir a transparência financeira, rastreabilidade e segurança operacional em organizações do terceiro setor. Inclui controlo de acesso baseado em papéis (RBAC), trilha imutável de auditoria contínua e suporte a temas (Light/Dark Mode).
+
+* 🔗 **[Ver Código no GitHub](https://github.com/luizfabiocode/sisgo-safeong)**
+* 📑 **[Ver Documentação Arquitetural](https://github.com/luizfabiocode/sisgo-safeong/blob/main/DOCUMENTATION.md)**
+
+#### 🛠️ Stacks e Arquitetura do SiSGO
+
+| Área | Tecnologias |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS, Lucide Icons |
+| **Backend & ORM** | Node.js, Express, Prisma ORM |
+| **Banco de Dados** | SQLite / PostgreSQL |
+| **Segurança & Compliance** | RBAC, Audit Logs (`LogSistema`), Protocolos PLD/KYC ($\ge$ R$ 5.000) |
+
 ---
 
 ## 💻 Minhas Especialidades
