@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Desenvolvedor+Fullstack+%26+Mobile;Kotlin+%7C+Jetpack+Compose+%7C+React;%C3%A7a)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Desenvolvedor+Fullstack+%26+Mobile;Kotlin+%7C+Jetpack+Compose+%7C+React;Apaixonado+por+Arquitetura+e+Seguran%C3%A7a)](https://git.io/typing-svg)
 
 #
 
